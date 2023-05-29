@@ -10,6 +10,11 @@ https://quize-game-ed322tw6q-chandanhm1999.vercel.app/
 * After filling all the inputs, the check button of the form should be enabled.
 * Post result, users can reset the game and try again with different random numbers.
 
+## Clone!
+```
+https://github.com/chandanhm1999/Quize-Game-App
+```
+
 ## Project Link:
 ```
 https://quize-game-ed322tw6q-chandanhm1999.vercel.app/
